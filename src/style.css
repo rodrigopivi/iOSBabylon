@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-color: #252525;
+}
+#renderCanvas {
+  /* iphone 6 resolution http://stackoverflow.com/questions/25754848/what-are-the-device-width-css-viewport-sizes-of-the-iphone6-and-iphone-6-plus */
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
